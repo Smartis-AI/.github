@@ -1,5 +1,5 @@
 
-## 🚀 Hey there, I'm [Your Name/Organization]! 👋
+## 🚀 Hey there, we're Smartis AI! 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3EE&width=435&lines=Welcome+to+my+digital+playground!;Full-stack+problem+solver;Open-source+enthusiast;Continuous+learner)](https://git.io/typing-svg)
 
